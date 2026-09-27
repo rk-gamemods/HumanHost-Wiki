@@ -11,6 +11,7 @@
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
+    "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
@@ -28,11 +29,11 @@
   "files": {
     "README.md": {
       "bytes": 511,
-      "sha256": "abd97a585c8f612710b2babae1947fa94d6e9293376e743da2520961fde78443"
+      "sha256": "d8cacc360688db5bef70f52aa7c3b92e18224728054164e27c9a4768e637ab7d"
     },
     "reference/index.md": {
       "bytes": 192,
-      "sha256": "1f95bd014932495d3a177a9bf7eabc518e2d09da82f727aad467c646d6a58f08"
+      "sha256": "3928e8b3591af2556568cdd1336c119f9a4cbf90a2da517a2fb8478cabda9bed"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -76,7 +77,7 @@
     },
     "site/reader.json": {
       "bytes": 6547,
-      "sha256": "437b92d933bbfa6ecd2d820378204dfea2a81332004110cdbc72c70c416a3eca"
+      "sha256": "9fc5d071ff99aad2da17a6c818ff7ea0f391cd5e9466ecca51d4dd0eff4a967a"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4976,
@@ -101,6 +102,10 @@
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json": {
       "bytes": 6547,
       "sha256": "c1ac00ce100605c92e4ca7878f210df7548f075fa9151d95e557bc7256abea82"
+    },
+    "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json": {
+      "bytes": 6547,
+      "sha256": "9fc5d071ff99aad2da17a6c818ff7ea0f391cd5e9466ecca51d4dd0eff4a967a"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5049,
@@ -156,7 +161,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43",
+  "release_id": "777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f",
   "repository_id": "hub",
   "schema_version": 1
 }
