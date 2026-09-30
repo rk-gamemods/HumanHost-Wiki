@@ -1,1 +1,2 @@
 * text=auto eol=lf
+/.github/ISSUE_TEMPLATE/*.yml -text
